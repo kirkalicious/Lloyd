@@ -1,2 +1,4 @@
 dict
-**/*.pyc
+*.pyc
+*.swp
+solve.egg-info
