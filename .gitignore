@@ -1,4 +1,4 @@
-dict
+data/*
 *.pyc
 *.swp
 solve.egg-info
